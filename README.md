@@ -40,13 +40,3 @@
 **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hthvinh48&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hthvinh48&layout=compact&theme=dark&hide_border=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=hthvinh48&color=red&style=flat)
