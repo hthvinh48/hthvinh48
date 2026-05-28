@@ -1,6 +1,6 @@
-# Hi there, I'm Vinh 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Vinh
 
-# Turning coffee and stack traces into working backend systems ☕
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6DB33F&width=600&lines=Turning+coffee+and+stack+traces...;...into+working+backend+systems+%E2%98%95" alt="Typing SVG" /></a>
 
 ---
 
@@ -9,7 +9,7 @@
 - 🔭 Focusing on **Java Spring Boot · Microservices · DevOps**
 - 🎯 Career path: **Java Backend + DevOps Engineer**
 - 💡 Believe that clean code is a form of respect for the next developer — even if it's future me
-- 📫 **[your email]**
+- 📫 **hthvinh48@gmail.com**
 - 🔗 **[LinkedIn URL]**
 
 ---
@@ -40,3 +40,6 @@
 **Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=hthvinh48&color=6DB33F&style=flat)
