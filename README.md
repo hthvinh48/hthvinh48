@@ -11,7 +11,7 @@
 - 🔭 Learning backend development with Java Spring Boot
 - 🌱 Exploring microservices and DevOps practices
 - 📚 Currently learning backend development and DevOps practices
-- 📫 **hthvinh48@gmail.com**
+- 📫 Email: **hthvinh48@gmail.com**
 
 ---
 
