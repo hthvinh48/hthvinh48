@@ -8,9 +8,8 @@
 
 ## 🧭 About Me
 
-- 🔭 Learning backend development with Java Spring Boot
-- 🌱 Exploring microservices and DevOps practices
-- 📚 Currently learning backend development and DevOps practices
+- 🔭 Learning backend development with **Java Spring Boot** & **Microservices**
+- 🌱 Exploring **DevOps** practices & tools
 - 📫 Email: **hthvinh48@gmail.com**
 
 ---
