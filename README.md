@@ -35,5 +35,3 @@
 </p>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=hthvinh48&color=6DB33F&style=flat)
